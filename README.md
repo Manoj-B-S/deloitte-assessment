@@ -5,10 +5,10 @@
 
 | Field | Value |
 |-------|-------|
-| Full Name | **[Your Full Name]** |
-| Email ID | **[Your Email]** |
-| College Name | **[Your College Name]** |
-| Selected Skill Track | **[Your Chosen Track]** |
+| Full Name | **[Manoj B S]** |
+| Email ID | **[bsmanoj65@gmail.com]** |
+| College Name | **[Alliance University, Bangalore]** |
+| Selected Skill Track | **[Python & Java]** |
 
 ---
 
