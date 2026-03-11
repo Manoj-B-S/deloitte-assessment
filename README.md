@@ -1,7 +1,7 @@
 # Deloitte Graduate Hiring – BE/BTech 2025 | Bangalore
 
 ## Candidate Info
-> ⚠️ **Replace the placeholders below with your actual details before submitting!**
+
 
 | Field | Value |
 |-------|-------|
@@ -46,19 +46,3 @@ python main.py   # No extra dependencies needed
 
 ---
 
-## Assessment Checklist
-
-- [ ] Replace all `[Your Full Name]`, `[Your Email]`, `[Your College Name]` placeholders
-- [ ] Run your chosen track and confirm zero errors
-- [ ] Create a Replit project for your track
-- [ ] Make the Replit project **Public**
-- [ ] Submit the Replit link to **namojain@deloitte.com**
-
-### Email Format
-**Subject:** `Graduate Opportunity | Your Name | Skill Track`  
-**Body:** `Graduate Hiring – Your Name – Track`
-
----
-
-## Application Deadline
-Refer to the official job posting for deadline details.
