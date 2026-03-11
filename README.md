@@ -8,7 +8,7 @@
 | Full Name | **[Manoj B S]** |
 | Email ID | **[bsmanoj65@gmail.com]** |
 | College Name | **[Alliance University, Bangalore]** |
-| Selected Skill Track | **[Python & Java]** |
+| Selected Skill Track | **[AI & Machine Learning]** |
 
 ---
 
